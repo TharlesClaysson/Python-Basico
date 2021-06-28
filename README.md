@@ -1,2 +1,2 @@
-# Python Basico
- meus algoritmos aprenditos em python do 1° e 2° termo do curso de ADS fatec
+# Python Básico
+ meus algoritmos aprendidos em python no 1° e 2° termo do curso de ADS fatec.
